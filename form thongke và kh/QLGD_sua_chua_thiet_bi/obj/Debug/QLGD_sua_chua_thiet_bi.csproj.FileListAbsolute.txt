@@ -1,0 +1,37 @@
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\bin\Debug\QLGD_sua_chua_thiet_bi.exe.config
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\bin\Debug\QLGD_sua_chua_thiet_bi.exe
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\bin\Debug\QLGD_sua_chua_thiet_bi.pdb
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.csproj.AssemblyReference.cache
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.Properties.Resources.resources
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.csproj.GenerateResource.cache
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.csproj.CoreCompileInputs.cache
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.exe
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.pdb
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmKHACH_HANG.resources
+D:\TTNT-45k21.1\TTNT45K_03\QLGD_sua_chua_thiet_bi\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmQLGD.resources
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\bin\Debug\QLGD_sua_chua_thiet_bi.exe.config
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\bin\Debug\QLGD_sua_chua_thiet_bi.exe
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\bin\Debug\QLGD_sua_chua_thiet_bi.pdb
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.csproj.AssemblyReference.cache
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmKHACH_HANG.resources
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmQLGD.resources
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.Properties.Resources.resources
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.csproj.GenerateResource.cache
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.csproj.CoreCompileInputs.cache
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.exe
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.pdb
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmTHONG_KE.resources
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmSUA_CHUA.resources
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\bin\Debug\QLGD_sua_chua_thiet_bi.exe.config
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\bin\Debug\QLGD_sua_chua_thiet_bi.exe
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\bin\Debug\QLGD_sua_chua_thiet_bi.pdb
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.csproj.AssemblyReference.cache
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmKHACH_HANG.resources
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmQLGD.resources
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmSUA_CHUA.resources
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmTHONG_KE.resources
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.Properties.Resources.resources
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.csproj.GenerateResource.cache
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.exe
+C:\Users\MyPC\OneDrive\Hình ảnh\Saved Pictures\Documents\GitHud\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.pdb
