@@ -83,6 +83,9 @@
     <EmbeddedResource Include="frmKHACH_HANG.resx">
       <DependentUpon>frmKHACH_HANG.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmNHAN_VIEN.resx">
+      <DependentUpon>frmNHAN_VIEN.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmQLGD.resx">
       <DependentUpon>frmQLGD.cs</DependentUpon>
     </EmbeddedResource>
@@ -120,6 +123,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\quan-tri-cong-nghe-trong-doanh-nghiep.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

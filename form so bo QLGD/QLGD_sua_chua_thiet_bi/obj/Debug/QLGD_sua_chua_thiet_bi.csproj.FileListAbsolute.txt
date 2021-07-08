@@ -22,3 +22,4 @@ D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD
 D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.pdb
 D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmTHONG_KE.resources
 D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmSUA_CHUA.resources
+D:\TTNT-45k21.1\TTNT45K_03\form so bo QLGD\QLGD_sua_chua_thiet_bi\obj\Debug\QLGD_sua_chua_thiet_bi.frmNHAN_VIEN.resources
